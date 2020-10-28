@@ -1,1 +1,1 @@
-# mandacduarte.github.io
+# PhD Resources -- Amanda Duarte
