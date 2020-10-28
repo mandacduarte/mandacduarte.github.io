@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sign Language Background
+title: Background
 nav_order: 2
 ---
 
