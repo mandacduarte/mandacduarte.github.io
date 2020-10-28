@@ -1,5 +1,7 @@
 ---
 layout: default
-title: Sign Language Processing Tasks
+title: Tasks
 nav_order: 2
 ---
+
+# Sign Language Processing Tasks
