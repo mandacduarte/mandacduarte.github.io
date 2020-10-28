@@ -1,1 +1,1 @@
-# PhD Resources -- Amanda Duarte
+# Sign Language Resources
